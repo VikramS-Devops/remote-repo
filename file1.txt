@@ -1,3 +1,4 @@
 INITIAL FILE
 Updating file1.txt
 Updating file1.txt again
+Push the incremental changes to GitHub Repository through Visual Studio Code IDE
